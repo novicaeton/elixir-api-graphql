@@ -1,4 +1,5 @@
-# MojApi
+# Elixir GraphQL API
+
 
 To start your Phoenix server:
 
